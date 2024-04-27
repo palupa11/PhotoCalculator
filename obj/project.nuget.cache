@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GyhTOf8hzajHqLZ7c4wyXqK5/9HroSgccSWMjGWuq5vze6Cf/S+FqhewP5R3cTSS+RcoSc5zWZMOigaytgwSrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauli\\Downloads\\OneDrive_2024-04-27\\Q3 Photo\\Q3 Photo\\Q3 Photo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
